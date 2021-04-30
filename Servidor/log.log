@@ -1,0 +1,12 @@
+[INFO] 22:49:32:724 Servidor/(6446:6446): Servidor listo para recibir al cliente
+[INFO] 23:03:59:635 Servidor/(6446:6446): Se conecto un cliente!
+[INFO] 23:03:59:636 Servidor/(6446:6446): Me llego el mensaje Hola, soy un valor
+[ERROR] 23:03:59:636 Servidor/(6446:6446): el cliente se desconecto. Terminando servidor
+[INFO] 23:10:22:163 Servidor/(6805:6805): Servidor listo para recibir al cliente
+[INFO] 23:10:26:914 Servidor/(6805:6805): Se conecto un cliente!
+[INFO] 23:10:26:914 Servidor/(6805:6805): Me llego el mensaje Hola, soy un valor
+[ERROR] 23:10:42:567 Servidor/(6805:6805): el cliente se desconecto. Terminando servidor
+[INFO] 23:29:55:568 Servidor/(7507:7507): Servidor listo para recibir al cliente
+[INFO] 23:30:05:477 Servidor/(7507:7507): Se conecto un cliente!
+[INFO] 23:30:05:479 Servidor/(7507:7507): Me llego el mensaje Hola, soy un valor
+[ERROR] 23:30:16:229 Servidor/(7507:7507): el cliente se desconecto. Terminando servidor
